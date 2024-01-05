@@ -7,7 +7,9 @@
 <p> 💻 I am currently graduating in software engineering at UNESA - Universidade Estácio de Sá</p>
 
 
-![cyberpunk]("https://giphy.com/embed/VixgE40gG7psuxARiB/video")
+
+<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/VixgE40gG7psuxARiB/video" style="left:0;position:absolute;top:0" width="100%"></iframe>
+</div>
  
 
   
