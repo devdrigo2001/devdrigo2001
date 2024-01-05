@@ -7,7 +7,7 @@
 <p> 💻 I am currently graduating in software engineering at UNESA - Universidade Estácio de Sá</p>
 
 
-[![cyberpunk](https://giphy.com/embed/VixgE40gG7psuxARiB/video")]
+![gojosensei](https://github.com/drigothinkeR/drigothinkeR/assets/90565371/8e95cecb-7c87-4f09-9807-c17115a52409)
 
   
 ## 🔗 Links
@@ -23,3 +23,4 @@
 </p>
 
 </div>
+
