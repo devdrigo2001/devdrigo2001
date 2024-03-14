@@ -3,7 +3,7 @@
 <div align="center";>
   
 <p>  Hey there! </p>
-<p> ✨ I'm Rodrigo Souza, 22 years old. </p>
+<p> ✨ I'm Rodrigo Souza, 23 years old. </p>
 <p> 💻 I am currently graduating in software engineering at UNESA - Universidade Estácio de Sá</p>
 
 
