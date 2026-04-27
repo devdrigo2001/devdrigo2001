@@ -8,9 +8,6 @@
 <p> 💻 I am currently graduating in software engineering at UNESA - Universidade Estácio de Sá</p>
 
 
-![onepiece](https://github.com/drigothinkeR/drigothinkeR/assets/90565371/26cf89db-3a5b-4d18-b545-59da0af8520e)
-
-
   
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devdrigo2001.github.io/)
