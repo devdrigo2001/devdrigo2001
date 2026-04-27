@@ -21,12 +21,16 @@
 
 <h3 >Languages and Tools:</h3>
 <p> 
-<a href="https://kotlinlang.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin svg" width="80" height="80" />
-</a>
-<a href="https://developer.android.com" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="android svg" width ="80" height="80" />
-</a>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="javascript svg" width ="80" height="80" />
+       
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  alt="html5 svg" width ="80" height="80"/>
+             
+
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  alt="css3 svg" width ="80" height="80" />
+          
+
 
 
 
